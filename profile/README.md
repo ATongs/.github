@@ -40,4 +40,4 @@ ATongs team will develop an android application that can classify a trash that i
 
 ### Mobile Development
 
-- [ATongs-App](https://github.com/ATongs/ATongs-Apps)
+- [ATongs-Apps](https://github.com/ATongs/ATongs-Apps.git)
